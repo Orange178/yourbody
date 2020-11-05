@@ -1,0 +1,87 @@
+body{
+font-family: 'Roboto', sans-serif;
+	background-color: black;
+	color: #d69d00;
+	overflow-x: hidden;
+}
+
+.jumbotron{
+	width: 100%;
+	text-align: center;
+	background-image: url(src/main1.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	color: #d69d00;
+	
+
+}
+
+.logo{
+	width: 50px;
+	height: 50px;
+	margin-left: 30px;
+}
+
+
+
+
+h1,h2{
+	color: white;
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+h6{
+	color: white;
+	font-size: 12px;
+	font-style: italic;
+	padding-bottom: 10px;
+}
+
+
+
+.footer{
+	text-align: center;
+}
+
+
+
+
+nav{
+	background-color: black;
+
+}
+
+
+.navbar-dark .navbar-nav .nav-link{
+	color: #d69d00;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: white;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+
+.bg-bwhite{
+	background-color: black;
+	color: white;
+}
+
+.items-shop{
+	background-image: url(src/item.jpg);
+-webkit-background-size: cover;
+background-size: cover;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+
+input{
+	max-width: 300px;
+}
